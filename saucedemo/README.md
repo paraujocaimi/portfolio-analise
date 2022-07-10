@@ -16,8 +16,25 @@ Este projeto foi criado com o propósito de práticar a criação e execução d
 
 ### Apresentação do Plano 
 
+Na aba Introdução da Planilha irá conter todas as informações bases do projeto.
+
 ![Imagem da apresentacao do plano](img/ref_apresentacao.png)
 
 ### Apresentando a Suite 
+
+Na aba Suite_(nome do requisito) irá conter todas as informações necessárias para execução dos testes vinculadas a Suíte. 
+
+Entre eles: 
+
+- Objetivo do teste:
+- Tempo de execução: 
+- Protótipo: 
+- Pré condicação: 
+- Dados necessário: 
+- Critério de aceite: 
+- Requisitos: 
+- Casos de teste: 
+- Prioridade:
+- Severidade
 
 ![Apresentacao Suite Login](img/ref_suite.png)
