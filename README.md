@@ -10,11 +10,11 @@ Neste repositório você irá encontrar a analise de dois (2) projetos, sendo um
 
 - Protótipo do Figma [PodcatApp](https://www.uplabs.com/posts/podcast-app-27e7dba2-b5d6-40f8-be0f-52d6710b9af7)
 
-![Referencia Protótipo](img\ref_figma.png)
+![Referencia Protótipo](img/ref_figma.png)
 
 
 ## Portfólio Plano de Teste
 
 - Site utilizado para elaboração do Plano [Saucedemo](https://www.saucedemo.com)
 
-![Home Site Saucedemo](img\site_saucedemo.png)
+![Home Site Saucedemo](img/site_saucedemo.png)
